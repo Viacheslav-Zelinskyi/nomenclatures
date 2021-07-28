@@ -1,0 +1,9 @@
+{
+    "name": "viacheslav/server",
+    "autoload": {
+        "psr-4": {
+            "Viacheslav\\Server\\": "src/"
+        }
+    },
+    "require": {}
+}
